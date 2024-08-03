@@ -1,0 +1,1 @@
+This project is designed to detect whether an object beneath the water is a rock or a mine. It utilizes sonar technology to aid in navigation for maritime operations and has potential applications in military contexts.
